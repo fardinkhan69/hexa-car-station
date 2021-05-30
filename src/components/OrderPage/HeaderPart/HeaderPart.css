@@ -1,0 +1,18 @@
+.header-part{
+
+    
+    background:url("https://i.ibb.co/rbn3W3q/pexels-trace-constant-707046-1.jpg") no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    min-height: 45vh;
+    color: #fff;
+    text-align: center;
+}
+.inner-header{
+    background:rgba(0, 0, 0, 0.548);
+    min-height: 45vh;
+    overflow:hidden;
+}
+h2{
+    padding-top: 18vh;
+}

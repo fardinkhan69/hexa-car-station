@@ -1,0 +1,15 @@
+.feature{
+    padding: 60px 0px;
+    background-color: #5856d6;
+    color: #fff;
+    text-align: center;
+}
+.img-icon{
+    width:64px;
+    height:64px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+h4{
+    margin: 10px 0px ;
+}
